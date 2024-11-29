@@ -1,3 +1,4 @@
+# užduotis parodo kuris darbuotojas yra direktorius ir uždirba daugiau už 2000
 darbuotojas_1 = ["Adomas", "direktorius", 2500]
 darbuotojas_2 = ["Romas", "direktorius", 2000]
 darbuotojas_3 = ["Valdas", "vadybininkas", 3000]

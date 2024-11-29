@@ -1,3 +1,4 @@
+# užduotis kaupia daugyba
 def kaupk_daugyba(*args):
     if len(args) == 0:
         return 0
