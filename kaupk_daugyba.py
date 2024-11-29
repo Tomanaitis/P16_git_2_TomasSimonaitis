@@ -16,4 +16,5 @@ res = kaupk_daugyba(2, 2, 2)  # 8
 print(res)
 res = kaupk_daugyba(0, 2, 2)  # 0
 print(res)
-
+res = kaupk_daugyba(3, 3, 3)  # ?
+print(res)
