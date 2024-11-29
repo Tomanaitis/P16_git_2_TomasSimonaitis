@@ -23,3 +23,5 @@ if (darbuotojas[1] == "direktorius") and (darbuotojas[2] > 2000):
     print(f"{darbuotojas} darbuotojas yra direktorius ir uždirba daugiau nei 2000")
 else:
     print(f"darbuotojas nera direktorius arba uždirba mažiau nei 2000")
+
+print(darbuotojas_2)
